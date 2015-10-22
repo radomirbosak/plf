@@ -5,8 +5,6 @@ Piecewise-linear functions
 
 It is used as an approximation of a continuous function (more precisely the density of a random variable) in the sample file `fixpoint-nn.py`, which tries to solve a functional equation for various parameters.
 
-![screenshot](scr.png)
-
 The demostration uses fixpoint-iteration method for solving the following functional problem.
 
 Find real function ![The signature of function f](fdef.png) such that:
@@ -16,6 +14,8 @@ Find real function ![The signature of function f](fdef.png) such that:
 Demonstration
 -------------
 	python3 fixpoint-nn.py
+
+![screenshot](scr.png)
 
 Dependencies
 ------------
